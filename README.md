@@ -12,7 +12,6 @@ Finansialku adalah aplikasi opens source yang dikembangkan untuk mencatat proble
 UANGKU juga akan dibuat versi native android, yang rencana akan di kembangkan dengan android studi / java.
 Untuk versi webnya menggunakan Framework Laravel
 
-**NOTE**: template admin menggunakan stisla, untuk lebih lengkapnya bisa kunjungi situs resminya di: https://getstisla.com/
 
 ## Screenshot
 
@@ -62,6 +61,3 @@ PASSWORD : admin
 
 Silahkan buka browser dan ketikkan : http://localhost:8000
 
-## License
-
-UANGKU is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
